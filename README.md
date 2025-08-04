@@ -26,7 +26,7 @@
     <input type="radio" id="male" name="male" value="male" required><br></input>
     <label for> Female</label> <br>
     <input type="radio" id="female" name="female" value="female" required><br></input>
-    <input type="submit" value="submit" />
+    <input type="submit" value="submit" </input>
         
 </form>
 </body>
